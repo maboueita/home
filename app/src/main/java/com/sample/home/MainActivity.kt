@@ -34,19 +34,18 @@ class MainActivity : AppCompatActivity() {
             arrayListOf<PeopleItem>(
                 PeopleItem(
                     "Maya is interested in",
-                    "Sr. Business Manager... \\n Chief of Staff ",
-                    "London \\u25CF Remotely "
+                    "Sr. Business Manager... ",
+                    "London \u2022 Remotely "
                 ),
                 PeopleItem(
                     "Gabriela is interested in",
                     "Flutter Developer",
-                    "London \\u25CF Remotely , \\n " +
-                            "€ 400/day \\u25CF \\u2730 100%"
+                    "London \u2022 Remotely "
                 ),
                 PeopleItem(
                     "Maya is interested in",
-                    "Sr. Business Manager... \\n Chief of Staff ",
-                    "London \\u25CF Remotely "
+                    "Sr. Business Manager...",
+                    "London \u2022 Remotely "
                 )
             )
 
